@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lalitpatidar-001
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning AWS, Docker and Micro-services
-- 💞️ I’m looking to collaborate on MERN application
+- 💞️ I’m looking to collaborate on MERN applications
 - 📫 How to reach me lalitpatidar388@gmail.com
 
 <!---
